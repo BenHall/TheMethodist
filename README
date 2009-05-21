@@ -1,0 +1,3 @@
+The Methodist is a plugin for Reflector which embeds the DLR and IronPython into the application, 
+allowing you to construct live objects directly within Reflector. This was created for an article
+on Simple Talk

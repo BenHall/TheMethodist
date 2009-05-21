@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMethodist", "TheMethodist\TheMethodist.csproj", "{5E4B9B51-E3A9-402C-85CB-9727E70F3532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMethodist.Sample", "TheMethodist.Sample\TheMethodist.Sample.csproj", "{BF0972F3-07B3-47B2-B25A-99617265FDD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E4B9B51-E3A9-402C-85CB-9727E70F3532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4B9B51-E3A9-402C-85CB-9727E70F3532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4B9B51-E3A9-402C-85CB-9727E70F3532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4B9B51-E3A9-402C-85CB-9727E70F3532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF0972F3-07B3-47B2-B25A-99617265FDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0972F3-07B3-47B2-B25A-99617265FDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0972F3-07B3-47B2-B25A-99617265FDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0972F3-07B3-47B2-B25A-99617265FDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

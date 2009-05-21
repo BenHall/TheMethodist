@@ -1,0 +1,10 @@
+﻿py> from System.Windows.Forms import Application, Form
+py> f = Form()
+py> f.Show()
+py> f.Text = "Hello World"
+py> 
+
+
+
+from TheMethodist.Sample import *
+t = TestObj()
