@@ -33,10 +33,10 @@
             // 
             // textBox
             // 
-            this.textBox.BackColor = System.Drawing.SystemColors.WindowText;
+            this.textBox.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.textBox.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox.Font = new System.Drawing.Font("Tahoma", 10.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox.ForeColor = System.Drawing.Color.Green;
+            this.textBox.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox.ForeColor = System.Drawing.Color.Yellow;
             this.textBox.Location = new System.Drawing.Point(0, 0);
             this.textBox.Multiline = true;
             this.textBox.Name = "textBox";
